@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jin Geun Jeong
+## 👋 Hi, I'm Jingeun Jeong
 
 안녕하세요😄  
 프론트엔드 개발자 정진근입니다
@@ -14,11 +14,16 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?label=&style=flat-square&logo=next.js&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?label=&style=flat-square&logo=Node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?label=&style=flat-square&logo=NestJS&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?label=&style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?label=&style=flat-square&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?label=&style=flat-square&logo=AmazonAWS&logoColor=white)
 ![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31?label=&style=flat-square&logo=AmazonS3&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?label=&style=flat-square&logo=Oracle&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?label=&style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?label=&style=flat-square&logo=GitHub&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?label=&style=flat-square&logo=Bitbucket&logoColor=white)
 
 
 <!--

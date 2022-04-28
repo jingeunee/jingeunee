@@ -15,6 +15,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?label=&style=flat-square&logo=Node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?label=&style=flat-square&logo=NestJS&logoColor=white)
+![Graphql](https://img.shields.io/badge/Graphql-E10098?label=&style=flat-square&logo=Graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?label=&style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?label=&style=flat-square&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?label=&style=flat-square&logo=AmazonAWS&logoColor=white)
